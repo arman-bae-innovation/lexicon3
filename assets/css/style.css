@@ -384,3 +384,47 @@ footer{
     rotate: 270deg; 
   }
 }
+
+#counter{
+  background-color: #E51D27;
+  color: #fff;
+}
+.counter-back-text{
+  color: #11111120;
+  margin-bottom: -20px;
+}
+
+#testimonial{
+  background-image: url('../img/Map.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.testimonial-star{
+  color: #FF8A00;
+}
+.testimonial-para{
+  font-weight: 300;
+  color: #1E1E1E;
+  font-size: 16px;
+}
+.testimonial-image{
+  width: 100px;
+  height: 100px;
+  border-radius: 100%;
+  border: 5px solid red;
+  margin: 0px auto;
+  margin-bottom: 10px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.testimonial-name{
+  color: #2E3A54;
+  font-size: 20px;
+}
+.testimonial-score{
+  color: #FF3B30;
+  font-weight: 400;
+  font-size: 18px;
+}
